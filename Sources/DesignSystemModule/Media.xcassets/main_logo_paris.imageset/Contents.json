@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "main_logo_paris.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
